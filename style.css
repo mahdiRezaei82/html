@@ -1,0 +1,20 @@
+body{
+    font-family: vazir;
+    text-align: right;
+    
+    background-color: #aaaaaa;
+}
+.header{
+    color: #f02727;
+}
+#pp{
+    size: 50px;
+    color: #df096d;
+}
+#tt{
+    color: rgb(43, 131, 126);
+}
+@font-face{
+    font-family: vazir;
+    src: url(Vazir.woff2) format(woff2);
+}
